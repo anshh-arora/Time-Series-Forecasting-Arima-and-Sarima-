@@ -31,8 +31,8 @@ To clone the repository and set up the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git (https://github.com/anshh-arora/Time-Series-Forecasting-Arima-and-Sarima-).git
+   cd Time-Series-Forecasting-Arima-and-Sarima-
 
 ## Contact Information
 For any questions or feedback, feel free to reach out:
